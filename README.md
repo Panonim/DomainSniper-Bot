@@ -36,7 +36,7 @@ Remember to replace the "YOUR USER ID HERE", "YOUR CHANNEL ID HERE" and "YOUR DO
 
 2. Follow the instructions from the gif below (It takes a few moments to load)
 
-![Gif instructions]([https://i.postimg.cc/3NhT6rsm/giphy.gif](https://github.com/Panonim/DomainSniper-Bot/blob/main/rdmfile.gif))
+![Gif instructions](https://github.com/Panonim/DomainSniper-Bot/blob/main/rdmfile.gif)
 
 Still can't see the instructions?
 [Link to YouTube](https://youtu.be/Svnp-1Qd2Cg)
