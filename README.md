@@ -59,5 +59,5 @@ Still can't see the instructions?
 • [Py requests](https://pypi.org/project/requests/)
 
 
-<div align="center"><img src="https://bluee.dev/assets/Signature.svg/" height=250px width=350px alt="ArturFlis Signature"/></div>
+<div align="center"><img src="https://bluee.dev/assets/Signature.svg/" height=150px width=250px alt="ArturFlis Signature"/></div>
 <div align="center">&copy; Artur Flis 2024, all rights saved.</div>
