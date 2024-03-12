@@ -33,7 +33,7 @@ Remember to replace the "YOUR USER ID HERE", "YOUR CHANNEL ID HERE" and "YOUR DO
 ### • How to get id?
 1. Go to settings -> advanced -> developer mode
 
-2. Follow the instructions from the gif below
+2. Follow the instructions from the gif below (It takes a few moments to load)
 
 ![Gif instructions](https://i.postimg.cc/3NhT6rsm/giphy.gif)
 
