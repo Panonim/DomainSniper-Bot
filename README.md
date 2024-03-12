@@ -37,6 +37,8 @@ Remember to replace the "YOUR USER ID HERE", "YOUR CHANNEL ID HERE" and "YOUR DO
 
 ![Gif instructions](https://i.postimg.cc/3NhT6rsm/giphy.gif)
 
+Still can't see the instructions?
+[Link to YouTube](https://youtu.be/Svnp-1Qd2Cg)
 ### • How to install packages?
 
 `python -m pip install requests` - Requests package
