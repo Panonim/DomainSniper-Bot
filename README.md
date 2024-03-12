@@ -26,6 +26,7 @@ To run this project, you will need to add the following environment variables to
 
 Download the main.py file 
 or use
+
 ```wget https://raw.githubusercontent.com/Panonim/DomainSniper-Bot/main/main.py```
 
 Remember to replace the "YOUR USER ID HERE", "YOUR CHANNEL ID HERE" and "YOUR DOMAIN HERE".
