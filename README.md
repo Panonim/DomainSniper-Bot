@@ -35,7 +35,7 @@ Remember to replace the "YOUR USER ID HERE", "YOUR CHANNEL ID HERE" and "YOUR DO
 
 2. Follow the instructions from the gif below
 
-![Gif ](https://i.postimg.cc/3NhT6rsm/giphy.gif)
+![Gif instructions](https://i.postimg.cc/3NhT6rsm/giphy.gif)
 
 ### • How to install packages?
 
