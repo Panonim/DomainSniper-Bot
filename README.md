@@ -5,7 +5,7 @@ Developed in Poland
 
 The app is made using ip2whois api and the discord.py lilbrary.
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-GNU-blue?style=flat-square&link=https://github.com/Panonim/DomainSniper-Bot/blob/main/LICENSE)](https://github.com/Panonim/DomainSniper-Bot?tab=GPL-3.0-1-ov-file)
+![LICENSE](https://img.shields.io/badge/LICENSE-GNU-blue?style=flat-square&link=https://github.com/Panonim/DomainSniper-Bot/blob/main/LICENSE)]
 
 ### • How it works? 
 Domain Sniper sends a message to the channel __everyday__ or when user (inputed id) in the dm's with bot will type `!whois`
@@ -48,3 +48,15 @@ Still can't see the instructions?
 ## 🖼 Demo
 
 ![Preview of command](https://i.postimg.cc/gc8yqtSh/3453454345-removebg-preview.png)
+
+## 🔗 Additional Links
+• [Ip2whois Docs](https://ip2whois.com/developers-api)
+
+• [Contact me via mail](mailto:office@bluee.dev)
+
+• [Discord Docs](https://discord.com/developers/docs/intro)
+
+• [Py requests](https://pypi.org/project/requests/)
+
+&copy; Artur Flis 2024, all rights saved.
+<img src="https://bluee.dev/assets/Signature.svg/" height=250px width=350px alt="ArturFlis Signature"/>
