@@ -24,7 +24,7 @@ To run this project, you will need to add the following environment variables to
 
 ## 🔨 Installation
 
-Download the main.py file 
+Download the [main.py](https://github.com/Panonim/DomainSniper-Bot/blob/main/main.py) file 
 or use
 
 ```wget https://raw.githubusercontent.com/Panonim/DomainSniper-Bot/main/main.py```
