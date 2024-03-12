@@ -30,7 +30,7 @@ or use
 
 Remember to replace the "YOUR USER ID HERE", "YOUR CHANNEL ID HERE" and "YOUR DOMAIN HERE".
 
-### • How to get id's?
+### • How to get id?
 1. Go to settings -> advanced -> developer mode
 
 2. Follow instructions from the gif below
