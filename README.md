@@ -49,6 +49,10 @@ Still can't see the instructions?
 
 ![Preview of command](https://i.postimg.cc/gc8yqtSh/3453454345-removebg-preview.png)
 
+## 📄 Need Help?
+
+See how to [contact support](https://github.com/Panonim/DomainSniper-Bot/blob/main/SUPPORT.md)
+
 ## 🔗 Additional Links
 • [Ip2whois Docs](https://ip2whois.com/developers-api)
 
