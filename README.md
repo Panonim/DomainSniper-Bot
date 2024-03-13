@@ -54,6 +54,8 @@ Still can't see the instructions?
 
 • [Contact me via mail](mailto:office@bluee.dev)
 
+• [Contact me via Reddit](https://www.reddit.com/user/arturcodes/)
+
 • [Discord Docs](https://discord.com/developers/docs/intro)
 
 • [Py requests](https://pypi.org/project/requests/)
