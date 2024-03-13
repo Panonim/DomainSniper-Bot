@@ -5,7 +5,7 @@ Developed in Poland
 
 The app is made using ip2whois api and the discord.py lilbrary.
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-GNU-blue?style=flat-square&link=https://github.com/Panonim/DomainSniper-Bot/blob/main/LICENSE)](https://github.com/Panonim/DomainSniper-Bot?tab=GPL-3.0-1-ov-file)
+[![LICENSE](https://img.shields.io/badge/LICENSE-BSD--3-blue?style=flat-square&link=https://github.com/Panonim/DomainSniper-Bot/tree/main?tab=BSD-3-Clause-1-ov-file)](https://github.com/Panonim/DomainSniper-Bot/tree/main?tab=BSD-3-Clause-1-ov-file)
 
 ### • How it works? 
 Domain Sniper sends a message to the channel __everyday__ or when user (inputed id) in the dm's with bot will type `!whois`
