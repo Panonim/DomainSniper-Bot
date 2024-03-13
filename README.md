@@ -58,6 +58,8 @@ Still can't see the instructions?
 
 • [Py requests](https://pypi.org/project/requests/)
 
+• [Sniper Beta](https://github.com/Panonim/SniperBeta/tree/beta)
+
 
 <div align="center"><img src="https://bluee.dev/assets/Signature.svg/" height=150px width=250px alt="ArturFlis Signature"/></div>
 <div align="center">&copy; Artur Flis 2024, all rights saved.</div>
