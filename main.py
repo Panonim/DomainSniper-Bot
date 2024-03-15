@@ -21,7 +21,7 @@ async def on_ready():
     if user:
         await user.send(
             "Whois information will be sent to the specified channel every day.")
-    send_whois_info.start()  # Start the task loop
+    send_whois_info.start()
 
 @client.event
 async def on_message(message):
@@ -29,13 +29,13 @@ async def on_message(message):
         return
 
     if message.content.startswith('!whois'):
-        if isinstance(message.channel, discord.DMChannel):  # Check if message is in DM
+        if isinstance(message.channel, discord.DMChannel): 
             await send_whois_info(destination=message.channel)
         else:
             await send_whois_info(destination=message.channel)
 
-@tasks.loop(hours=24)  # Schedule to run every 24 hours
-async def send_whois_info(destination=None):  # Updated function definition to accept an optional argument
+@tasks.loop(hours=24)  # Schedule to run every 24 hours (Default, change to your own prefers.) 
+async def send_whois_info(destination=None): 
     if destination is None:
         destination = client.get_channel(CHANNEL_ID)
     if destination:
