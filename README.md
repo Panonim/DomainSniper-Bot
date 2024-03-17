@@ -49,6 +49,7 @@ Still can't see the instructions?
 
 ![Preview of command](https://i.postimg.cc/gc8yqtSh/3453454345-removebg-preview.png)
 
+
 ## 🔗 Additional Links
 • [Ip2whois Docs](https://ip2whois.com/developers-api)
 
@@ -61,6 +62,10 @@ Still can't see the instructions?
 • [Py requests](https://pypi.org/project/requests/)
 
 • [Sniper Beta](https://github.com/Panonim/SniperBeta/tree/beta)
+
+## 📄 Need Help?
+
+See how to [contact support](https://github.com/Panonim/DomainSniper-Bot/blob/main/SUPPORT.md)
 
 
 <div align="center"><img src="https://bluee.dev/assets/Signature.svg/" height=150px width=250px alt="ArturFlis Signature"/></div>
