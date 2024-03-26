@@ -68,5 +68,5 @@ Still can't see the instructions?
 See how to [contact support](https://github.com/Panonim/DomainSniper-Bot/blob/main/SUPPORT.md)
 
 
-<div align="center"><img src="https://bluee.dev/assets/Signature.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
+<div align="center"><img src="https://bluee.dev/assets/ArturFlis.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
 <div align="center">&copy; Artur Flis 2024, all rights saved.</div>
