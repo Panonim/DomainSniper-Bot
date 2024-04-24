@@ -4,8 +4,9 @@ These are versions we can help with when you have a problem
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0v   | :white_check_mark: |
+| 1.0v   | ❎ |
 | 1.01v   | :white_check_mark:            |
+| 1.10v   | :white_check_mark:            |
 
 
 ## ☎ Reporting a Vulnerability
