@@ -27,7 +27,7 @@ To run this project, you will need to add the following environment variables to
 Download the [Sniper-Bot Folder](https://github.com/Panonim/DomainSniper-Bot/blob/main/Sniper-Bot)
 or use
 
-```wget https://raw.githubusercontent.com/Panonim/DomainSniper-Bot/main/Sniper-Bot```
+```curl -LJO https://raw.githubusercontent.com/Panonim/DomainSniper-Bot/main/Sniper-Bot```
 
 Remember to replace the "YOUR USER ID HERE", "YOUR CHANNEL ID HERE" and "YOUR DOMAIN HERE".
 
