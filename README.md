@@ -24,7 +24,7 @@ To run this project, you will need to add the following environment variables to
 
 ## 🔨 Installation
 
-Download the [Sniper-Bot Folder(https://downgit.github.io/#/home?url=https://github.com/Panonim/DomainSniper-Bot/tree/main/Sniper-Bot)
+Download the [Sniper-Bot Folder](https://downgit.github.io/#/home?url=https://github.com/Panonim/DomainSniper-Bot/tree/main/Sniper-Bot)
 or use
 
 ```wget https://raw.githubusercontent.com/Panonim/DomainSniper-Bot/main/Sniper-Bot```
