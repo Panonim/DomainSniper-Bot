@@ -24,7 +24,7 @@ To run this project, you will need to add the following environment variables to
 
 ## 🔨 Installation
 
-Download the [Sniper-Bot Folder](https://github.com/Panonim/DomainSniper-Bot/blob/main/Sniper-Bot)
+Download the [Sniper-Bot Folder(https://downgit.github.io/#/home?url=https://github.com/Panonim/DomainSniper-Bot/tree/main/Sniper-Bot)
 or use
 
 ```wget https://raw.githubusercontent.com/Panonim/DomainSniper-Bot/main/Sniper-Bot```
@@ -52,10 +52,6 @@ Still can't see the instructions?
 
 ## 🔗 Additional Links
 • [Ip2whois Docs](https://ip2whois.com/developers-api)
-
-• [Contact me via mail](mailto:office@bluee.dev)
-
-• [Contact me via Reddit](https://www.reddit.com/user/arturcodes/)
 
 • [Discord Docs](https://discord.com/developers/docs/intro)
 
