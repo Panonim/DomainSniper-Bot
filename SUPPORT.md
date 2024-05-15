@@ -9,8 +9,10 @@ These are versions we can help with when you have a problem
 | 1.10v   | :white_check_mark:            |
 
 ## 🔰 Indicators 
-:white_cross_mark: _ Not supported
-:white_check_mark _ Supported 
+❎ _ Not supported
+
+:white_check_mark: _ Supported 
+
 ⭐ _ Priority Support
 
 
